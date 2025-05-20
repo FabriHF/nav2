@@ -49,9 +49,9 @@ def launch_setup(context, *args, **kwargs):
         ),
         # RViz
         Node(
-            package='rviz2',
+            package='rbiz2',
             executable='rviz2',
-            name='rviz2',
+            name='rviz',
             output='screen',
             arguments=['-d', rviz_file],
             parameters=[{'use_sim_time': LaunchConfiguration('use_sim_time')}]
