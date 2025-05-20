@@ -133,7 +133,6 @@ def launch_setup(context, *args, **kwargs):
                 launch_arguments={'map_name': LaunchConfiguration('map_name')}.items()
             )
         )
-        )
     else:
         raise RuntimeError(f"[gazebo_world.launch.py] Modo desconocido '{mode}', se esperaba 'nav' o 'map'.")
 
