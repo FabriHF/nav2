@@ -1,0 +1,16 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 100
+
+joint_state_broadcaster:
+  ros__parameters: {}
+
+diff_drive_controller:
+  ros__parameters:
+    type: "diff_drive_controller/DiffDriveController"
+    left_wheel_names: ["wheel_left_joint"]
+    right_wheel_names: ["wheel_right_joint"]
+    wheel_separation: 0.38    # distancia entre ruedas (m)
+    wheel_radius: 0.075       # radio de rueda (m)
+    cmd_vel_timeout: 0.5
+    publish_rate: 50

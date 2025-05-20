@@ -1,0 +1,86 @@
+running egg_info
+creating ../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info
+writing ../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info/PKG-INFO
+writing dependency_links to ../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info/dependency_links.txt
+writing entry points to ../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info/entry_points.txt
+writing requirements to ../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info/requires.txt
+writing top-level names to ../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info/top_level.txt
+writing manifest file '../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info/SOURCES.txt'
+reading manifest file '../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info/SOURCES.txt'
+writing manifest file '../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/build/familiapachuquena_nav2_puzzlebot/build
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/build/familiapachuquena_nav2_puzzlebot/build/lib
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/build/familiapachuquena_nav2_puzzlebot/build/lib/familiapachuquena_nav2_puzzlebot
+copying familiapachuquena_nav2_puzzlebot/__init__.py -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/build/familiapachuquena_nav2_puzzlebot/build/lib/familiapachuquena_nav2_puzzlebot
+running install
+running install_lib
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/lib/python3.10/site-packages/familiapachuquena_nav2_puzzlebot
+copying /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/build/familiapachuquena_nav2_puzzlebot/build/lib/familiapachuquena_nav2_puzzlebot/__init__.py -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/lib/python3.10/site-packages/familiapachuquena_nav2_puzzlebot
+byte-compiling /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/lib/python3.10/site-packages/familiapachuquena_nav2_puzzlebot/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/ament_index
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/ament_index/resource_index
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/ament_index/resource_index/packages
+copying resource/familiapachuquena_nav2_puzzlebot -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/ament_index/resource_index/packages
+copying package.xml -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/launch
+copying launch/nav2_launch.launch.py -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/launch
+copying launch/navigation.launch.py -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/launch
+copying launch/lafam_launch.launch.py -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/launch
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/config
+copying config/puzzlebot_jetson_lidar_ed.yaml -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/config
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/rviz
+copying rviz/nav2_mapping.rviz -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/rviz
+copying rviz/nav2_navigating.rviz -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/rviz
+copying rviz/puzzlebot_nav.rviz -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/rviz
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/param
+copying param/slam_toolbox_config.yaml -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/param
+copying param/puzzlebot.yaml -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/param
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/map
+copying map/hexagonal_map.yaml -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/map
+copying map/puzzlebot_map.yaml -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/map
+copying map/puzzlebot_map.pgm -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/map
+copying map/hexagonal_map.pgm -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/map
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_sensors
+copying urdf/mcr2_sensors/lidar.xacro -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_sensors
+copying urdf/mcr2_sensors/laser_camera_bracket.xacro -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_sensors
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_control
+copying urdf/mcr2_control/gazebo_control.xacro -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_control
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_robots
+copying urdf/mcr2_robots/puzzlebot_jetson_lidar_ed.xacro -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_robots
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_robots/jetson_lidar_ed
+copying urdf/mcr2_robots/jetson_lidar_ed/parameters_jetson_lidar_ed.xacro -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_robots/jetson_lidar_ed
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_misc
+copying urdf/mcr2_misc/materials.xacro -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_misc
+copying urdf/mcr2_misc/macros.xacro -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_misc
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_mechanical
+copying urdf/mcr2_mechanical/puzzlebot_jetson_lidar_base.urdf.xacro -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/urdf/mcr2_mechanical
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/misc
+copying meshes/misc/NVIDIA_Jetson.stl -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/misc
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/sensors
+copying meshes/sensors/RPLidar.stl -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/sensors
+copying meshes/sensors/Laser_Camera_Bracket.stl -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/sensors
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/wheels
+copying meshes/wheels/Puzzlebot_Wheel.stl -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/wheels
+copying meshes/wheels/Puzzlebot_Caster_Wheel.stl -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/wheels
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/bases
+copying meshes/bases/Puzzlebot_Jetson_Lidar_Edition_Base.stl -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/meshes/bases
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/models
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/models/hexagonal_world
+copying models/hexagonal_world/model.sdf -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/models/hexagonal_world
+copying models/hexagonal_world/model.config -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/models/hexagonal_world
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/models/hexagonal_world/meshes
+copying models/hexagonal_world/meshes/wall.dae -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/models/hexagonal_world/meshes
+copying models/hexagonal_world/meshes/hexagon.dae -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/models/hexagonal_world/meshes
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/worlds
+copying worlds/puzzlebot.world -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/worlds
+creating /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/plugins
+copying plugins/libDiffDynamicPlugin.so -> /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/share/familiapachuquena_nav2_puzzlebot/plugins
+running install_egg_info
+Copying ../build/familiapachuquena_nav2_puzzlebot/familiapachuquena_nav2_puzzlebot.egg-info to /home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/install/familiapachuquena_nav2_puzzlebot/lib/python3.10/site-packages/familiapachuquena_nav2_puzzlebot-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/fabrih/ros2_nav_ws/src/familiapachuquena_nav2_puzzlebot(7)/build/familiapachuquena_nav2_puzzlebot/install.log'

@@ -1,0 +1,36 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/robertog/ros2_ws/install/tf_examples/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/puzzlebot_sim/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/puzzlebot_gazebo/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/puzzlebot_description/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/puzzle_drone/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/motor_control/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/mobile_robotics/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/minichallenges/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/minichallenge3/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/mini2_moni/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/mini2/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/familiapachuquenta_nav2_puzzlebot/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/familiapachuquena_nav2_puzzlebot/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/robertog/ros2_ws/install/tf_examples/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/puzzlebot_sim/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/puzzlebot_gazebo/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/puzzlebot_description/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/puzzle_drone/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/motor_control/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/mobile_robotics/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/minichallenges/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/minichallenge3/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/mini2_moni/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/mini2/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/familiapachuquenta_nav2_puzzlebot/lib/python3.10/site-packages",
+        "/home/robertog/ros2_ws/install/familiapachuquena_nav2_puzzlebot/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
