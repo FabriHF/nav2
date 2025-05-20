@@ -5,7 +5,7 @@ from launch.launch_description_sources import PythonLaunchDescriptionSource
 from launch.substitutions import LaunchConfiguration
 from ament_index_python.packages import get_package_share_directory
 import os
-
+#funcion de launch
 def launch_setup(context, *args, **kwargs):
     map_name = LaunchConfiguration('map_name').perform(context)
     base_path = get_package_share_directory('puzzlebot_nav2_gz_garden')
